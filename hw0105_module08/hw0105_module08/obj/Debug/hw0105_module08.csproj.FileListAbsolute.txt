@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Hw\hw0105_module08\hw0105_module08\bin\Debug\hw0105_module08.exe.config
+C:\Users\user\Desktop\Hw\hw0105_module08\hw0105_module08\bin\Debug\hw0105_module08.exe
+C:\Users\user\Desktop\Hw\hw0105_module08\hw0105_module08\bin\Debug\hw0105_module08.pdb
+C:\Users\user\Desktop\Hw\hw0105_module08\hw0105_module08\obj\Debug\hw0105_module08.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Hw\hw0105_module08\hw0105_module08\obj\Debug\hw0105_module08.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Hw\hw0105_module08\hw0105_module08\obj\Debug\hw0105_module08.Form1.resources
+C:\Users\user\Desktop\Hw\hw0105_module08\hw0105_module08\obj\Debug\hw0105_module08.Properties.Resources.resources
+C:\Users\user\Desktop\Hw\hw0105_module08\hw0105_module08\obj\Debug\hw0105_module08.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Hw\hw0105_module08\hw0105_module08\obj\Debug\hw0105_module08.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Hw\hw0105_module08\hw0105_module08\obj\Debug\hw0105_module08.exe
+C:\Users\user\Desktop\Hw\hw0105_module08\hw0105_module08\obj\Debug\hw0105_module08.pdb

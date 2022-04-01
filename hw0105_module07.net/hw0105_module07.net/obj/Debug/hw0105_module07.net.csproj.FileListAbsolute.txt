@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Hw\hw0105_module07.net\hw0105_module07.net\bin\Debug\hw0105_module07.net.exe.config
+C:\Users\user\Desktop\Hw\hw0105_module07.net\hw0105_module07.net\bin\Debug\hw0105_module07.net.exe
+C:\Users\user\Desktop\Hw\hw0105_module07.net\hw0105_module07.net\bin\Debug\hw0105_module07.net.pdb
+C:\Users\user\Desktop\Hw\hw0105_module07.net\hw0105_module07.net\obj\Debug\hw0105_module07.net.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Hw\hw0105_module07.net\hw0105_module07.net\obj\Debug\hw0105_module07.net.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Hw\hw0105_module07.net\hw0105_module07.net\obj\Debug\hw0105_module07.net.Form1.resources
+C:\Users\user\Desktop\Hw\hw0105_module07.net\hw0105_module07.net\obj\Debug\hw0105_module07.net.Properties.Resources.resources
+C:\Users\user\Desktop\Hw\hw0105_module07.net\hw0105_module07.net\obj\Debug\hw0105_module07.net.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Hw\hw0105_module07.net\hw0105_module07.net\obj\Debug\hw0105_module07.net.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Hw\hw0105_module07.net\hw0105_module07.net\obj\Debug\hw0105_module07.net.exe
+C:\Users\user\Desktop\Hw\hw0105_module07.net\hw0105_module07.net\obj\Debug\hw0105_module07.net.pdb

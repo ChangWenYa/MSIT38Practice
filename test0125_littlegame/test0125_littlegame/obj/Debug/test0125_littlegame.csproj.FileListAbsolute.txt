@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\MSIT38_張文雅\test0125_littlegame\test0125_littlegame\bin\Debug\test0125_littlegame.exe.config
+C:\Users\user\Desktop\MSIT38_張文雅\test0125_littlegame\test0125_littlegame\bin\Debug\test0125_littlegame.exe
+C:\Users\user\Desktop\MSIT38_張文雅\test0125_littlegame\test0125_littlegame\bin\Debug\test0125_littlegame.pdb
+C:\Users\user\Desktop\MSIT38_張文雅\test0125_littlegame\test0125_littlegame\obj\Debug\test0125_littlegame.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MSIT38_張文雅\test0125_littlegame\test0125_littlegame\obj\Debug\test0125_littlegame.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\MSIT38_張文雅\test0125_littlegame\test0125_littlegame\obj\Debug\test0125_littlegame.Form1.resources
+C:\Users\user\Desktop\MSIT38_張文雅\test0125_littlegame\test0125_littlegame\obj\Debug\test0125_littlegame.Properties.Resources.resources
+C:\Users\user\Desktop\MSIT38_張文雅\test0125_littlegame\test0125_littlegame\obj\Debug\test0125_littlegame.csproj.GenerateResource.cache
+C:\Users\user\Desktop\MSIT38_張文雅\test0125_littlegame\test0125_littlegame\obj\Debug\test0125_littlegame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MSIT38_張文雅\test0125_littlegame\test0125_littlegame\obj\Debug\test0125_littlegame.exe
+C:\Users\user\Desktop\MSIT38_張文雅\test0125_littlegame\test0125_littlegame\obj\Debug\test0125_littlegame.pdb

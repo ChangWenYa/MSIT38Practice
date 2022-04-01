@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Hw\hw0105_module11\hw0105_module11\bin\Debug\hw0105_module11.exe.config
+C:\Users\user\Desktop\Hw\hw0105_module11\hw0105_module11\bin\Debug\hw0105_module11.exe
+C:\Users\user\Desktop\Hw\hw0105_module11\hw0105_module11\bin\Debug\hw0105_module11.pdb
+C:\Users\user\Desktop\Hw\hw0105_module11\hw0105_module11\obj\Debug\hw0105_module11.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Hw\hw0105_module11\hw0105_module11\obj\Debug\hw0105_module11.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Hw\hw0105_module11\hw0105_module11\obj\Debug\hw0105_module11.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Hw\hw0105_module11\hw0105_module11\obj\Debug\hw0105_module11.exe
+C:\Users\user\Desktop\Hw\hw0105_module11\hw0105_module11\obj\Debug\hw0105_module11.pdb
